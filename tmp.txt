@@ -1,0 +1,4 @@
+# 说明：
+# -u origin feature/shopping-cart 的意思是：
+# "在远程 origin 也建一个同名分支，并将本地这个分支与远程关联绑定"。
+# 下次在这个分支上再提交代码，直接简写输入 git push 即可！
